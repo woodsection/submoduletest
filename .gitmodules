@@ -1,0 +1,3 @@
+[submodule "submoduletest-sub1"]
+	path = submoduletest-sub1
+	url = https://github.com/woodsection/submoduletest-sub1.git
